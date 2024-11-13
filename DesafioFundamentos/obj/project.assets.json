@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio-main\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio-main\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio-main\\DesafioFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Downloads\\trilha-net-fundamentos-desafio-main\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
